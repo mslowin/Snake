@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"App"},{"p":"<Unnamed>","l":"Gra"},{"p":"<Unnamed>","l":"Jablko"},{"p":"<Unnamed>","l":"Kierunek"},{"p":"<Unnamed>","l":"OknoAplikacji"},{"p":"<Unnamed>","l":"Plansza"},{"p":"<Unnamed>","l":"Punkty"},{"p":"<Unnamed>","l":"Snake"}]
